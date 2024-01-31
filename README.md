@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=20px&section=header&text=xeunnie's%20github&fontSize=16px" />
+<img src="https://capsule-render.vercel.app/api?type=venomk&color=auto&section=header&text=xeunnie's%20github&fontSize=25px&font-color=random&animation=twinkling"/>
 
 <div align=center>
   
