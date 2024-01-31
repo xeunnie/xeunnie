@@ -1,18 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=20px&section=header&text=xeunnie's%20github&fontSize=16px" />
+
+<div align=center>
+  
 ### Hi there 👋
 
-<!--
-**xeunnie/xeunnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on React.ts
+- 🌱 I’m currently learning web front-end
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeunnie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
+</div>
