@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=xeunnie's%20github&fontSize=25px"/>
 
 <div align=center>
-  
-### Hi there 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=random&background=random&center=true&vCenter=true&multiline=true&random=false&width=480&height=150&lines=Hi+I'm+font-end+Developer+chloe+choi;I'm+working+as+a+web+publisher;also+as+a+UI%2FUX+Designer.;After+enginnering+UI%2FUX++for+years%2C;I'm+learning+front-end+developing" alt="Typing SVG" /></a>
 
