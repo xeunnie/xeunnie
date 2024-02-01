@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venomk&color=auto&section=header&text=xeunnie's%20github&fontSize=25px&font-color=random&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=xeunnie's%20github&fontSize=25px"/>
 
 <div align=center>
   
 ### Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&background=DA1C66&center=true&vCenter=true&multiline=true&random=false&width=480&height=150&lines=Hi+I'm+font-end+Developer+chloe+choi;I'm+working+as+a+web+publisher;also+as+a+UI%2FUX+Designer.;After+enginnering+UI%2FUX++for+years%2C;I'm+learning+front-end+developing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=auto&background=auto&center=true&vCenter=true&multiline=true&random=false&width=480&height=150&lines=Hi+I'm+font-end+Developer+chloe+choi;I'm+working+as+a+web+publisher;also+as+a+UI%2FUX+Designer.;After+enginnering+UI%2FUX++for+years%2C;I'm+learning+front-end+developing" alt="Typing SVG" /></a>
 
 🔭 I’m currently working on React.ts
 🌱 I’m currently learning web front-end
@@ -24,6 +24,7 @@ Front-end Developing<br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeunnie)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeunnie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
