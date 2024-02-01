@@ -23,9 +23,12 @@ Publishing<br>
 Front-end Developing<br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xeunnie&theme=nord_bright) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xeunnie&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xeunnie&theme=nord_bright) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xeunnie&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xeunnie&theme=nord_bright)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeunnie)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeunnie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
