@@ -1,6 +1,7 @@
+<div align=center>
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=xeunnie's%20github&fontSize=25px"/>
 
-<div align=center>
 
 <a href="https://xeunnie.github.io/portfoliopage/">click this to see my portfolio page</a>
 
