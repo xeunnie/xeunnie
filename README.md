@@ -4,7 +4,7 @@
 
 <a href="https://xeunnie.github.io/portfoliopage/">click this to see my portfolio page</a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=333333m&background=random&center=true&vCenter=true&multiline=true&random=false&width=480&height=150&lines=Hi+I'm+font-end+Developer+chloe+choi;I'm+working+as+a+web+publisher;also+as+a+UI%2FUX+Designer.;After+enginnering+UI%2FUX++for+years%2C;I'm+learning+front-end+developing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&background=BBE2FF&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=frontend+devloper+rookie+CHLOE+CHOI;working+on+React.ts;click+my+profile+page!" alt="Typing SVG" /></a>
 
 🔭 I’m currently working on React.ts
 🌱 I’m currently learning web front-end
