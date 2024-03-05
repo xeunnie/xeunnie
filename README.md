@@ -7,7 +7,8 @@
 <a href="https://xeunnie.github.io/portfoliopage/">click this to see my portfolio page🦈</a>
 
 ## 💻 Now
-<p>🔭 I’m currently working on React.ts, learning web front-end</p>
+<p>🔭 I’m currently working on React <img src="https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB">
+ ts <img src="https://img.shields.io/badge/-007ACC?style=flat&logo=typescript&logoColor=white">, learning web front-end 💻 </p>
 
 ## 💻 Education
 <p>🤓 Ajou University, English and Digital Media</p>
