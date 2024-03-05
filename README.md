@@ -28,7 +28,7 @@
 <b>Publishing</b><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?&style=flat&logo=sass3&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699?&style=flat&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/p5%20js-ED225D?style=flat&logo=p5dotjs&logoColor=white">
