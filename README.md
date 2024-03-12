@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxeunnie&count_bg=%23192F3F&title_bg=%23DBF0FF&icon=react.svg&icon_color=%23192F3F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&background=BBE2FF&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=frontend+devloper+rookie+CHLOE+CHOI;working+on+React.ts;click+my+profile+page!" alt="Typing SVG" /></a>
+![](https://ghchart.rshah.org/256dda/xeunnie)
 
 <a href="https://xeunnie.github.io/Portfoliopage/">click this to see my portfolio page🦈</a>
 
@@ -82,7 +82,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xeunnie&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xeunnie&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xeunnie&theme=nord_bright) 
-
+<br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 </div>
