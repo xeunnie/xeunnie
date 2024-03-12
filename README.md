@@ -6,7 +6,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&background=BBE2FF&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=frontend+devloper+rookie+CHLOE+CHOI;working+on+React.ts;click+my+profile+page!" alt="Typing SVG" /></a>
 
-<a href="https://xeunnie.github.io/portfoliopage/">click this to see my portfolio page🦈</a>
+<a href="https://xeunnie.github.io/Portfoliopage/">click this to see my portfolio page🦈</a>
 
 ## 💻 Now
 <p>🔭 I’m currently working on React <img src="https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB">
