@@ -7,6 +7,9 @@
 
 <div align=left>
 
+# Introduce
+<b>성실히 공부하는 프론트엔드 개발자 최승은입니다.</b>
+
 ## 💻 Now
  <p>🔭 I’m currently working on React <img src="https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB">
  ts <img src="https://img.shields.io/badge/-007ACC?style=flat&logo=typescript&logoColor=white">, learning web front-end 💻 </p>
