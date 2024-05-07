@@ -1,4 +1,4 @@
-<div align=center>
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=xeunnie's%20github&fontSize=25px"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxeunnie&count_bg=%23192F3F&title_bg=%23DBF0FF&icon=react.svg&icon_color=%23192F3F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -7,33 +7,34 @@
 
 <div align=left>
 
-# Introduce
-<b>성실히 공부하는 프론트엔드 개발자 최승은입니다.</b>
-
+# 👩‍💻Introduce
+<b>풀스택 개발자 최승은입니다.</b>
+<br/>
+<br/>
 ## 💻 Now
- <p>🔭 I’m currently working on React <img src="https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB">
- ts <img src="https://img.shields.io/badge/-007ACC?style=flat&logo=typescript&logoColor=white">, learning web front-end 💻 </p>
+ <p>🔭 FE Stack <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white"></p>
+ <p>🖥️ BE Stack <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"></p>
+ <p>💽 Data Stack <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/My SQL Workbench-4479A1?style=flat&logo=mysql&logoColor=white"></p>
+
+<br/>
+
+## 🔗Links
  <div>
-  <b>Links : </b>
-  <a href="https://xeunnie.github.io/Portfoliopage/">Portfolio page <img src="https://img.shields.io/badge/Github.io-222222?style=flat&logo=githubpages&logoColor=white"></a>
-  <a href="https://xeunnie.github.io/">Study Memo<img src="https://img.shields.io/badge/jekyll-CC0000?style=flat&logo=jekyll&logoColor=white"></a>
-  <a href="https://velog.io/@xeunnie/posts">My Error Log <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"></a>
+  <p>Click the Badge🏷</p>
+  <p>1️⃣ Portfolio Page <a href="https://xeunnie.github.io/Portfoliopage/"><img src="https://img.shields.io/badge/Portfolio page Github.io -222222?style=flat&logo=githubpages&logoColor=white"></a></p>
+  <p>2️⃣ Today I Learned <a href="https://xeunnie.github.io/"><img src="https://img.shields.io/badge/TIL Jekyll Blog-CC0000?style=flat&logo=jekyll&logoColor=white"></a></p>
+  <p>3️⃣ Study Memo<a href="https://velog.io/@xeunnie/posts">My Error Log <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"></a></p>
  </div>
 
+<br/>
+
 ## 🤓 Education
-<p>🤓 Ajou University, English and Digital Media</p>
+<b>Ajou University🏫 Majored Digital Media🎮 and English📓</b>
 
-## 🖥 Tools
+<br/>
 
-### Main Stacks
-
-<b> - Mainly Use</b>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-
-<br>
-
-<b> - Front-end Developing</b>
+## 🖥 Tools I Used
+### Front-end Developing
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
@@ -42,7 +43,7 @@
 
 <br>
 
-<b> - Publishing</b>
+### Publishing
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?&style=flat&logo=sass&logoColor=white">
@@ -51,32 +52,30 @@
 
 <br>
 
-<b> - UI/UX</b>
+### UI/UX
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white">
 
 <br>
 
-<b> - Data</b>
+### Data
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
 
 <br>
 
-<b> - DevOps </b>
+### DevOps </b>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 
 <br>
 
-<b> - Collaboration tool </b>
+### Collaboration tool
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
@@ -85,7 +84,7 @@
 
 <br>
 
-<b> - Design</b>
+### Design
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black">
 <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white">
