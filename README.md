@@ -1,6 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=xeunnie's%20github&fontSize=25px"/>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Seung+Eun+˙ᵕ˙+&nbsp;)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxeunnie&count_bg=%23192F3F&title_bg=%23DBF0FF&icon=react.svg&icon_color=%23192F3F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![](https://ghchart.rshah.org/256dda/xeunnie)
