@@ -123,3 +123,5 @@
 <br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
+
+![haproxy_logo_icon_171017](https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/138289674/c8bc3b59-d0a7-4dde-9bcd-c4a20f239d77)
