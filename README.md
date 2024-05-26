@@ -33,7 +33,8 @@
 <br/>
 
 ## 🤓 Education
-<b>Ajou University🏫 Majored Digital Media🎮 and English📓</b>
+<b>🏫 Ajou University Majored in Digital Media 🎮 and English 📓</b>
+<p>🏛️ HanHwa System Byond SW Camp 6th Back-end Track (2024.04.29 ~ 2024.10.25)💻</p>
 
 <br/>
 
