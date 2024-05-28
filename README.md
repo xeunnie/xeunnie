@@ -40,43 +40,38 @@
 
 ## 🖥 Tools I Used
 ### Front-end Developing
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=svelte&logoColor=white">
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white">
+#### Frameworks <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white"> <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=svelte&logoColor=white">
+#### Languages <img src="https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
+#### Web Server <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white">
+#### Publishing <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?&style=flat&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/p5%20js-ED225D?style=flat&logo=p5dotjs&logoColor=white">
 
 <br>
 
-### Publishing
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?&style=flat&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/p5%20js-ED225D?style=flat&logo=p5dotjs&logoColor=white">
+### DB
+#### Database <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+
+#### Database Monitoring System <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+
+
+#### LoadBalancing <img src="https://img.shields.io/badge/HAPROXY-blue?style=flat&logo=googlepubsub&logoColor=white"/> <img src="https://img.shields.io/badge/Keepalived-FF3E00?style=flat&logo=amazondynamodb&logoColor=white"/>
 
 <br>
 
-### UI/UX
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white">
+### DevOps
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 
 <br>
 
-### Data
+### ETC
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
-
-<br>
-
-### DevOps </b>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 
 <br>
 
@@ -90,25 +85,17 @@
 <br>
 
 ### Design
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black">
-<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white">
+#### UI/UX Design <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white">
+#### Graphic Design <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white">
 
 <br>
 
- ### Sub Stacks
- 
- <b> - Video Editing  </b>
- <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white">
- <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665">
+### Sub Stacks
+#### Video Editing <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665">
 
- <b> - Game Engineering  </b>
- <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
- <img src="https://img.shields.io/badge/Roblox-00A2FF?style=flat&logo=robloxstudio&logoColor=white">
+#### Game Engineering <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Roblox-00A2FF?style=flat&logo=robloxstudio&logoColor=white">
  
-<b> - 3D Graphic Design  </b>
-<img src="https://img.shields.io/badge/Maya Autodesk-37A5CC?&style=flat&logo=autodeskmaya&logoColor=white">
-<img src="https://img.shields.io/badge/Blender-E87D0D?&style=flat&logo=blender&logoColor=white">
+#### 3D Graphic Design <img src="https://img.shields.io/badge/Maya Autodesk-37A5CC?&style=flat&logo=autodeskmaya&logoColor=white"> <img src="https://img.shields.io/badge/Blender-E87D0D?&style=flat&logo=blender&logoColor=white">
 
 </div>
 
