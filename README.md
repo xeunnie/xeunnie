@@ -55,6 +55,8 @@
 
 #### LoadBalancing <img src="https://img.shields.io/badge/HAPROXY-blue?style=flat&logo=googlepubsub&logoColor=white"/> <img src="https://img.shields.io/badge/Keepalived-FF3E00?style=flat&logo=amazondynamodb&logoColor=white"/>
 
+#### Load testing <img src="https://img.shields.io/badge/ApacheJmeter-D22128?style=flat&logo=apachejmeter&logoColor=white"/>
+
 <br>
 
 ### DevOps
@@ -64,7 +66,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 
-<br>
+<br><br>
 
 ### ETC
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -73,7 +75,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
 
-<br>
+<br><br>
 
 ### Collaboration tool
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -82,13 +84,13 @@
 <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=atlassian&logoColor=white"/>
 
-<br>
+<br><br>
 
 ### Design
 #### UI/UX Design <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white">
 #### Graphic Design <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white">
 
-<br>
+<br><br>
 
 ### Sub Stacks
 #### Video Editing <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665">
