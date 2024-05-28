@@ -8,7 +8,7 @@
 ![](https://ghchart.rshah.org/256dda/xeunnie)
 
 <div align=left>
-1
+
 # 👩‍💻Introduce
 <b>풀스택 개발자 최승은입니다.</b>
 <br/>
