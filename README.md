@@ -1,11 +1,4 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=xeunnie's%20github&fontSize=25px"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Seung+Eun+˙ᵕ˙+&nbsp;)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxeunnie&count_bg=%23192F3F&title_bg=%23DBF0FF&icon=react.svg&icon_color=%23192F3F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![](https://ghchart.rshah.org/256dda/xeunnie)
 
 <div align=left>
 
@@ -16,7 +9,7 @@
 ## 💻 Now
  <p>🔭 FE Stack <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white"></p>
  <p>🖥️ BE Stack <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"></p>
- <p>💽 Data Stack <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/My SQL Workbench-4479A1?style=flat&logo=mysql&logoColor=white"></p>
+ <p>💽 Data Stack <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=flat&logo=mysql&logoColor=white"></p>
 
 
 <br/>
@@ -72,22 +65,7 @@
 <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=atlassian&logoColor=white"/>
 
-<br><br>
 
-### Design
-#### UI/UX Design <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white">
-#### Graphic Design <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white">
-
-<br><br>
-
-### Sub Stacks
-#### Video Editing <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665">
-
-#### Game Engineering <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Roblox-00A2FF?style=flat&logo=robloxstudio&logoColor=white">
- 
-#### 3D Graphic Design <img src="https://img.shields.io/badge/Maya Autodesk-37A5CC?&style=flat&logo=autodeskmaya&logoColor=white"> <img src="https://img.shields.io/badge/Blender-E87D0D?&style=flat&logo=blender&logoColor=white">
-
-</div>
 
 ## 🖥 Commit Records
 <div align=center>
