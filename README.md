@@ -71,11 +71,6 @@
 <div align=center>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeunnie&show_icons=true&count_private=true&theme=catppuccin_latte)<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xeunnie&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xeunnie&theme=nord_bright) <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xeunnie&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xeunnie&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xeunnie&theme=nord_bright) 
 <br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
