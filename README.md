@@ -3,7 +3,7 @@
 <div align=left>
 
 # 👩‍💻Introduce
-<b>풀스택 개발자 최승은입니다.</b>
+<b>프론트 + 백엔드 풀스택 개발자 최승은입니다.</b>
 <br/>
 <br/>
 ## 💻 Now
