@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/Next.js-white?style=flat&logo=nextdotjs&logoColor=000000"> 
 <img src="https://img.shields.io/badge/Vue.js-white?style=flat&logo=vue.js&logoColor=4FC08D"/> 
 <img src="https://img.shields.io/badge/Svelte-white?style=flat&logo=svelte&logoColor=FF3E00"/>
-<img src="https://img.shields.io/badge/Node.js-white?style=flat&logo=nodedotjs&logoColor=339933"/>
 
 ### 📊 State Management
 <img src="https://img.shields.io/badge/Redux-white?style=flat&logo=redux&logoColor=764ABC"/>
@@ -50,7 +49,6 @@
 ### 💽  Database
 <img src="https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/MariaDB-white?style=flat&logo=mariadb&logoColor=003545"/> 
-<img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=4479A1"/>
 
 ### 🌐 Cloud & Containerization
 <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=2496ED"/> 
