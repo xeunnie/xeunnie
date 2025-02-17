@@ -31,9 +31,6 @@
 <img src="https://img.shields.io/badge/Redux-white?style=flat&logo=redux&logoColor=764ABC"/>
 <img src="https://img.shields.io/badge/Pinia-white?style=flat&logo=vue.js&logoColor=4FC08D"/>
 
-### 🛠️ Build & Package Management
-<img src="https://img.shields.io/badge/Webpack-white?style=flat&logo=webpack&logoColor=8DD6F9"/> 
-
 ### 🔎 Performance & UI/UX Testing
 <img src="https://img.shields.io/badge/Storybook-white?style=flat&logo=storybook&logoColor=FF4785"/> 
 <img src="https://img.shields.io/badge/Chromatic-white?style=flat&logo=chromatic&logoColor=F25C7E"/> 
